@@ -32,7 +32,6 @@
 ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
 ![PHP](https://img.shields.io/badge/Php-000?style=for-the-badge&logo=php)
 ![MSQl](https://img.shields.io/badge/Mysql-000?style=for-the-badge&logo=mysql&logoColor=823085)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor=C3002F)
 
 
